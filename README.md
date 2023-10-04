@@ -12,10 +12,13 @@ English - Spanish ~ Fluent
 French - Japanese ~ Beginner 
 
 ##Experience
-Team Member - Target - Feb 2023 --> Current
+Team Member - Target - Feb 2023 -- Current
 * Tend the front of store
 * Guest services 
 * Order pickup
 * Closer
 
 ##Education
+YearUp Multip-AppDev September 2023 -- Current
+
+ASU Undergrad Study August 2020 - May 2022
