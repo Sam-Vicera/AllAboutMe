@@ -7,18 +7,18 @@
 ## Skills
 Software - VsCode, Gitbash, Microsoft Office (Word, Excel, Presentation), CAD, MATLAB, HTML, CSS, Javascript
 
-####Languages 
+#### Languages 
 English - Spanish ~ Fluent
 French - Japanese ~ Beginner 
 
-##Experience
+## Experience
 Team Member - Target - Feb 2023 -- Current
 * Tend the front of store
 * Guest services 
 * Order pickup
 * Closer
 
-##Education
+## Education
 YearUp Multip-AppDev September 2023 -- Current
 
 ASU Undergrad Study August 2020 - May 2022
